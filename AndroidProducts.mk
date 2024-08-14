@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/afterlife_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    afterlife_miatoll-user \
-    afterlife_miatoll-userdebug \
-    afterlife_miatoll-eng
+    halcyon_miatoll-ap2a-user \
+    halcyon_miatoll-ap2a-userdebug \
+    halcyon_miatoll-ap2a-eng
